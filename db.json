@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "id": "102",
+      "name": "shamil pk",
+      "email": "shamilrahman@gmail.com",
+      "status": "Inactive"
+    },
+    {
+      "id": "103",
+      "name": "smokith",
+      "email": "smokith@gmail.com",
+      "status": "Inactive"
+    },
+    {
+      "id": "104",
+      "name": "saed",
+      "email": "saed@gmail.com",
+      "status": "Inactive"
+    },
+    {
+      "id": "125",
+      "name": "nihal",
+      "email": "nihal@gmail.com",
+      "status": "Inactive"
+    }
+  ]
+}
